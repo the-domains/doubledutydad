@@ -1,16 +1,16 @@
-typography_spectrum: 0.4787691372912377
+typography_spectrum: 0.04908261867240071
 color:
-  brandStrength: 0.11027624434791505
-  lightness: 0.39481351734139025
-  saturation: 0.3808663815725595
-  rhythmicContrast: 0.0031556393951177597
+  brandStrength: 0.846613114932552
+  lightness: 0.2726797601208091
+  saturation: 0.5552503832150251
+  rhythmicContrast: 0.9948251605965197
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.26064585498534143
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.26772275450639427
 author:
   name: Manny Fernandez
   email: mfernandez3@gmail.com
